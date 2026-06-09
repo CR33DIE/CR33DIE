@@ -1,5 +1,12 @@
-## Hi there 👋
+## ✨ Hey there, I'm Christian
 
+### About Me:
+-  🔭 I'm interested in learning new things like new programming languages.
+   - Java, C, C#, GO, Assembly
+- 🌱  I'm looking to collaborate on new projects.
+- 💬 Especially I like challenging tasks.
+- 📫 How to reach me:
+    - CR33DIE: [Discord](https://discord.com)
 <!--
 **CR33DIE/CR33DIE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...👋
 -->
