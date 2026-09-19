@@ -2,7 +2,8 @@
 
 ### About Me:
 -  🔭 I'm interested in learning new things like new programming languages.
-   - Java, C, C#, GO, Assembly
+   - 💬 Ask me about: 
+        Java, C, C#, GO, Assembly
 - 🌱  I'm looking to collaborate on new projects.
 - 💬 Especially I like challenging tasks.
 - 📫 How to reach me:
